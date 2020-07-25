@@ -1,0 +1,32 @@
+body{
+    margin:0;
+    padding:0;
+}
+/* .card-body{
+    background-color:white;
+} */
+
+.card-body{
+    text-align: center;
+    padding-top: 20px;
+    width: 300px;
+    border: 15px solid rgb(186, 190, 186);
+    box-shadow:gray;
+    padding: 50px;
+    margin: 20px;
+    }
+.container{
+    margin:20px;
+}
+
+.container1{
+    color: teal;
+}
+.container3{
+        background-color: green;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 100%;
+    }
